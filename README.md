@@ -135,6 +135,7 @@ int main(){
 Cho a, b là hai số nguyên (giả sử a ≥ b), để tìm ước chung lớn nhất của hai số a và b ta cần thực hiện chia a cho b được thương q và số dư r (r ≥ 0) tức là a = b*q + r, khi đó ta có:
 
 ![UCLN](https://nguyenvanhieu.vn/wp-content/uploads/2019/06/RC1U1s7.png "UCLN")
+
 **Code**:
 ```cpp
 int gcd(int a, int b) {
